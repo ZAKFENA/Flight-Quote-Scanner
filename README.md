@@ -8,4 +8,4 @@ When departure and destination cities are entered, cheapest flight quotes are li
 
 ## Screen Shot
 
-![Image](Flight-Quote-Scanner-1.PNG.png)
+![Image](Flight-Quote-Scanner-1.PNG)
