@@ -4,7 +4,7 @@ When departure and destination cities are entered, cheapest flight quotes are li
 
 ## Tools / Languages
 
-Open weather API, Javascript, HTML, CSS, Bootstrap
+Sky Scanner API, Javascript, HTML, CSS, Bootstrap/Bulma
 
 ## Deployed Link
 
