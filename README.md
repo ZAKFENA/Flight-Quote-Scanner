@@ -2,6 +2,10 @@
 
 When departure and destination cities are entered, cheapest flight quotes are listed along with Carrier name and flight time and dates.
 
+## Tools / Languages
+
+Open weather API, Javascript, HTML, CSS, Bootstrap
+
 ## Deployed Link
 
 [Flight Quote Scanner](https://zakfena.github.io/Flight-Quote-Scanner/index.html)
